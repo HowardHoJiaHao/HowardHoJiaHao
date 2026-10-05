@@ -1,8 +1,8 @@
 ## Hi, I'm Howard Ho Jia Hao 👋
 
-### C, C++, Object Oriented Programming, DevOps, Shell, UNIX and SysAdmin
+### C, C++, Object Oriented Programming
 
-- Enrolled in [42 Kuala Lumpur](https://42kl.edu.my/) - Sunway Education Group, studying Computer Science.
+- Enrolled in [42 Kuala Lumpur](https://42kl.edu.my/) - Sunway Education Group
 
 ### 42 common core projects:
 
