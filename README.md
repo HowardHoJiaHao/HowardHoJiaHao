@@ -23,3 +23,12 @@
 | 5 | [Inception](https://github.com/HowardHoJiaHao/inception) | System administration with Docker: NGINX (TLS), WordPress and MariaDB each in their own container, set up with docker-compose |
 | 5 | webserv | An HTTP/1.1 web server in C++98 inspired by NGINX: configuration file, `GET` / `POST` / `DELETE`, file uploads and CGI (team project with [Ho Wai Keong](https://github.com/waikeong008) and [Kee Wan Tiew](https://github.com/tiewkeewan)) |
 | 6 | ft_transcendence | Racketdiction Marketplace: a full-stack badminton and racket marketplace built with Next.js, Go, FastAPI, PostgreSQL and Docker (team project) |
+
+### Personal AI side projects:
+Self-initiated projects where I build practical tools with AI and LLMs.
+
+| Project | Description | Built with |
+|---|---|---|
+| [StudentCodingAgent](https://github.com/HowardHoJiaHao/StudentCodingAgent) | **Howard Agent**: an AI coding assistant for VS Code that a whole class can share. The agent reads, searches, edits and runs code in the student's project, asking before every change, and each student gets a revocable key with its own budget behind a metering server | JavaScript, VS Code extension, Node.js, DeepSeek, LiteLLM, Docker |
+| [GovernanceIntelligencePlatform](https://github.com/HowardHoJiaHao/GovernanceIntelligencePlatform) | **EGIP – Enterprise Governance Intelligence Platform**: an AI assistant that answers questions from an organisation's own governance, compliance and procurement documents, with document ingestion and audit logging | Python, Flask, SQLite, Ollama (Gemma 2, local LLM), Bootstrap, Docker |
+| [kyouth-data-ai](https://github.com/HowardHoJiaHao/kyouth-data-ai) | Four weeks of data and AI projects: a job-listing ETL pipeline (HTML → JSON → SQLite), LLM tagging of job skills with a resume skill-gap analysis, a containerised resume-helper chatbot, and an expense tracker that sorts spending with an LLM and shows it on a dashboard | Python, SQLite, Ollama, FastAPI, Streamlit, Plotly, Docker |
